@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StoringJWTJava</string>
+    <string name="encrypted_jwt_token">Encrypted JWT Token</string>
+    <string name="clear_jwt_token">Decrypted JWT Token</string>
+    <string name="encrypted_jwt">Encrypted JWT:</string>
+    <string name="jwt_title">Original JWT:</string>
+    <string name="jwt">eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTI4Mjg0NDIsImdydCI6WyJtYnVzOnNlc3Npb24ub3JkZXIiLCJtYnVzOnNlc3Npb24ucXIiXSwicGlkIjoiNTk5NUlleDhWVkNHVkU2dzc1UU9jU0dpWUNDb0ZSMGxrRDEiLCJzdWIiOiJwciJ9.SgGe_qK4Il9TXnCvniLJAX_-8ylY2C7MK6Ai8bwSZY4</string>
+    <string name="key">Key:</string>
+</resources>
