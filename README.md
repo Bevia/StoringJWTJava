@@ -1,4 +1,4 @@
-Storing JWTs securely
+# Storing JWTs securely
 
 Storing JWTs securely in an Android device requires careful consideration to protect the token from unauthorized access, such as by malicious apps or attackers.
 
